@@ -1,6 +1,6 @@
 {
   "name": "pulsar-client",
-  "version": "2.8.0-rc-202101011021",
+  "version": "2.8.0-rc-202101041543",
   "description": "Pulsar Node.js client",
   "main": "index.js",
   "directories": {
